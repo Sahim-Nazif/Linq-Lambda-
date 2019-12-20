@@ -6,6 +6,6 @@ namespace Linq_Lambda
 {
     public enum  Title
     {
-       CIO, manager, projectManager, systemAnalyst, businessAnalys,developer, QA
+       CIO, Manager, ProjectManager, systemsAnalyst, BusinessAnalys,Developer, QA
     }
 }
